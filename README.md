@@ -1,4 +1,4 @@
-[
+
 # ClassCheck
 
 ClassCheck is a modern web application designed to efficiently track and manage class attendance for educational institutions. It provides real-time updates, secure authentication, and a user-friendly interface for both students and lecturers.
