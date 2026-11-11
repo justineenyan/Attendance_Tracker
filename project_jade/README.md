@@ -1,4 +1,4 @@
-
+[
 # ClassCheck
 
 ClassCheck is a modern web application designed to efficiently track and manage class attendance for educational institutions. It provides real-time updates, secure authentication, and a user-friendly interface for both students and lecturers.
@@ -57,7 +57,7 @@ nodemon server.js
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/markdrahg/project_jade.git
+   git clone https://github.com/justineenyan/Attendance_Tracker.git
    ```
 2. **Set up the frontend and backend** following the installation steps above.
 3. **Configure your environment variables** as needed for database and API access.
@@ -77,3 +77,4 @@ nodemon server.js
 ## 📄 License
 
 This project is licensed under the MIT License.
+](https://github.com/justineenyan/Attendance_Tracker.git)
